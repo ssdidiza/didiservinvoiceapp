@@ -12,6 +12,7 @@ const config: Config = {
         '13': 'repeat(13, minmax(0, 1fr))',
       },
       colors: {
+        didiserv: '#13ec92',
         blue: {
           400: '#2589FE',
           500: '#0070F3',
